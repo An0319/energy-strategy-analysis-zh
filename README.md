@@ -1,7 +1,7 @@
 # energy-strategy-analysis-zh
 # 中国能源变革与世界能源发展趋势分析
 
-> 一份基于公开数据的全球能源格局战略分析报告。
+> 一份基于公开数据的全球能源格局战略分析报告(Analysis_of_China_Energy_Transformation_and_World_Energy_Development_Trends-Simplified_Version-ZH)。
 
 ## 关于本项目
 
