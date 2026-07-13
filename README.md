@@ -1,7 +1,6 @@
-# energy-strategy-analysis-zh
 # 中国能源变革与世界能源发展趋势分析
 
-> 一份基于公开数据的全球能源格局战略分析报告(Analysis_of_China_Energy_Transformation_and_World_Energy_Development_Trends-Simplified_Version-ZH)。
+> 一份基于公开数据的全球能源格局战略分析报告。
 
 ## 关于本项目
 
@@ -20,4 +19,13 @@
 
 **数据来源**：IEA、中国国家能源局等 50+ 公开数据源，所有数据均可通过参考文献链接验证。
 
----
+## 查看报告
+
+- [Markdown 版](Analysis_of_China_Energy_Transformation_and_World_Energy_Development_Trends-Simplified_Version-ZH.md)
+- [PDF 版](Analysis_of_China_Energy_Transformation_and_World_Energy_Development_Trends-Simplified_Version-ZH.pdf)
+
+## 版权声明
+
+本作品采用 [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) 进行许可。
+
+© 2026 王子文 (Adrian Wang). 仅供学习和研究用途，禁止商业使用。
