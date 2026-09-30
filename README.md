@@ -23,6 +23,7 @@
 
 - [Markdown 版](Analysis_of_China_Energy_Transformation_and_World_Energy_Development_Trends-Simplified_Version-ZH.md)
 - [PDF 版](Analysis_of_China_Energy_Transformation_and_World_Energy_Development_Trends-Simplified_Version-ZH.pdf)
+
 经2026-09-30重新修订
 
 ## 版权声明
